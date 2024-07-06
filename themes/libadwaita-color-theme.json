@@ -1,8 +1,8 @@
 {
 	"name": "libadwaita",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#303030",
+		"editor.foreground": "#fefefe",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},

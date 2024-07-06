@@ -1,0 +1,16 @@
+root {
+    --bg: #303030;
+    --bg-dark: #1e1e1e;
+    --bg-light: #343434;
+    --foreground: #fefefe;
+    --green-1: #8ff0a4;
+    --green-2: #57e389;
+    --green-3: #33d17a;
+    --green-4: #2ec27e;
+    --green-5: #26a269;
+    --yellow-1: #f9f06b;
+    --yellow-2: #f8e45c;
+    --yellow-3: #f6d32d;
+    --yellow-4: #f5c211;
+    --yellow-5: #e5a50a;
+}
