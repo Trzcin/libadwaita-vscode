@@ -1,10 +1,22 @@
 {
 	"name": "libadwaita",
 	"colors": {
-		"editor.background": "#303030",
+		"editor.background": "#1e1e1e",
 		"editor.foreground": "#fefefe",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#26a269",
+		"activityBar.background": "#303030",
+		"statusBar.background": "#303030",
+		"titleBar.activeBackground": "#303030",
+		"titleBar.inactiveBackground": "#343434",
+		"tab.inactiveBackground": "#303030",
+		"editorGroupHeader.tabsBackground": "#303030",
+		"sideBar.background": "#303030",
+		"sideBarSectionHeader.background": "#303030",
+		"menu.background": "#303030",
+		"menu.selectionBackground": "#26a269",
+		"selection.background": "#57e389",
+		"editor.selectionBackground": "#26a2689f",
+		"list.inactiveSelectionBackground": "#1e1e1e",
 	},
 	"tokenColors": [
 		{
