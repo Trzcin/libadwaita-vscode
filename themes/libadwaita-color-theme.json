@@ -34,6 +34,14 @@
 		"editorGutter.addedBackground": "#26a268",
 		"editorGutter.modifiedBackground": "#f6d32d",
 		"editorLightBulb.foreground": "#f6d32d",
+		"editorHoverWidget.background": "#303030",
+		"peekViewEditor.background": "#1e1e1e",
+		"peekViewEditor.matchHighlightBackground": "#26a26877",
+		"peekViewResult.matchHighlightBackground": "#26a26877",
+		"peekView.border": "#26a268",
+		"peekViewResult.selectionBackground": "#26a26877",
+		"peekViewTitle.background": "#303030",
+		"peekViewResult.background": "#303030",
 	},
 	"tokenColors": [
 		{
