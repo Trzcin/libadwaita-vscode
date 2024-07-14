@@ -42,6 +42,11 @@
 		"peekViewResult.selectionBackground": "#26a26877",
 		"peekViewTitle.background": "#303030",
 		"peekViewResult.background": "#303030",
+		"editorStickyScroll.border": "#343434",
+		"editorStickyScroll.shadow": "#343434",
+		"sideBarStickyScroll.border": "#343434",
+		"sideBarStickyScroll.shadow": "#343434",
+		"panel.background": "#1e1e1e"
 	},
 	"tokenColors": [
 		{
