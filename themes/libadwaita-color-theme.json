@@ -6,6 +6,7 @@
 		"activityBarBadge.background": "#26a269",
 		"activityBar.background": "#303030",
 		"statusBar.background": "#303030",
+		"statusBar.noFolderBackground": "#303030",
 		"titleBar.activeBackground": "#303030",
 		"titleBar.inactiveBackground": "#343434",
 		"tab.inactiveBackground": "#303030",
