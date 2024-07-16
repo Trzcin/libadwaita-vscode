@@ -134,6 +134,7 @@
 				"punctuation.definition.list",
 				"punctuation.definition.link",
 				"punctuation.definition.metadata",
+				"punctuation.definition.template-expression",
 				"entity.name.label"
 			],
 			"settings": {
@@ -178,5 +179,14 @@
 				"foreground": "#2ec27e"
 			}
 		},
+		{
+			"name": "Tagged templates",
+			"scope": [
+				"string.js.taggedTemplate"
+			],
+			"settings": {
+				"foreground": "#fff",
+			}
+		}
 	]
 }
